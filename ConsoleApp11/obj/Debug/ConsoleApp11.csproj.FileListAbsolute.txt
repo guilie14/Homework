@@ -1,0 +1,8 @@
+C:\Insight Files\CS\ConsoleApp11\bin\Debug\ConsoleApp11.exe.config
+C:\Insight Files\CS\ConsoleApp11\bin\Debug\ConsoleApp11.exe
+C:\Insight Files\CS\ConsoleApp11\bin\Debug\ConsoleApp11.pdb
+C:\Insight Files\CS\ConsoleApp11\obj\Debug\ConsoleApp11.csproj.AssemblyReference.cache
+C:\Insight Files\CS\ConsoleApp11\obj\Debug\ConsoleApp11.csproj.SuggestedBindingRedirects.cache
+C:\Insight Files\CS\ConsoleApp11\obj\Debug\ConsoleApp11.csproj.CoreCompileInputs.cache
+C:\Insight Files\CS\ConsoleApp11\obj\Debug\ConsoleApp11.exe
+C:\Insight Files\CS\ConsoleApp11\obj\Debug\ConsoleApp11.pdb

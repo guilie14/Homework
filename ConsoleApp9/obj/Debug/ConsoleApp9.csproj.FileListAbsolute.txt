@@ -1,0 +1,3 @@
+C:\Insight Files\CS\ConsoleApp9\obj\Debug\ConsoleApp9.csproj.AssemblyReference.cache
+C:\Insight Files\CS\ConsoleApp9\obj\Debug\ConsoleApp9.csproj.SuggestedBindingRedirects.cache
+C:\Insight Files\CS\ConsoleApp9\obj\Debug\ConsoleApp9.csproj.CoreCompileInputs.cache
